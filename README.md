@@ -2,8 +2,7 @@
 # Web Development Internship Diary
 
 **Student Name:** Samiksha Gundu Kurane 
-**Enrollment Number:** 24213440509
-
+**Enrollment Number:** 24213440509.          
 **Institute:** Sanjay Ghodawat Institute, Kolhapur  
 **Academic Year:** 2026–2027 (Semester 5)  
 **Faculty Mentor:** Nitesh Bhalkikar  
